@@ -12,9 +12,9 @@ Feature of this Project : After completing the registration, client will get con
 	          LoanAmount
 	          Loan_Amount_Term
 	          Credit_History
-	          Gender=models
-	          Married=models.
-	          Education=models
+	          Gender
+	          Married
+	          Education
 	          Self_Employed
            	  Property_Area
 then will get confirmation message and email which tells whether a student will get student loan
