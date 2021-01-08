@@ -4,7 +4,7 @@ Outcome of this Project : This project tells us, whether a student will get stud
 
 Feature of this Project : After completing the registration, client will get confirmation message and email. If a student apply for a loan and providing criteria
 
-            Firstname
+           	  Firstname
 	          Lastname
 	          Dependants
 	          ApplicantIncome
@@ -16,7 +16,7 @@ Feature of this Project : After completing the registration, client will get con
 	          Married=models.
 	          Education=models
 	          Self_Employed
-            Property_Area
+           	  Property_Area
 then will get confirmation message and email which tells whether a student will get student loan
 
 
