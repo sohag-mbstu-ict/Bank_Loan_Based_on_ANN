@@ -20,7 +20,7 @@ Feature of this Project : After completing the registration, client will get con
 then will get confirmation message and email which tells whether a student will get student loan
 
 
-Requirements : tensorflow backend django version 3.6, Dataset name bankloan.csv
+Requirements : tensorflow backend django version 3.6, Dataset name Churn_Modelling.csv
 
 Algorithm : Artificial neural networks (ANNs), which is used in different fields such as bank check signature recognition, Image processing
             Language processing and translation, Route detection,Speech recognition,Forecasting
