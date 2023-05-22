@@ -58,7 +58,3 @@ Self_Employed     : Yes or No
 
 Property_Area     : Urban or Rural or Semiurban
 
-
-Self_Employed : Yes or No
-
-Property_Area : Urban or Rural or Semiurban
