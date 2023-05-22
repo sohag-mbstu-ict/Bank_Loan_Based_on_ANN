@@ -12,15 +12,22 @@ After completing the registration, client will get confirmation message and emai
 
 ## Methods Used
 Data Preprocessing
+
 Exploratory Data Analysis
+
 Machine Learning
+
 etc.
 
 ## Technologies
 Python, Markdown
+
 Tensorflow, Keras
+
 Pandas, numpy
+
 Jupyter
+
 etc.
 
 ## Project Description
