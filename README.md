@@ -1,5 +1,32 @@
 # Project Name : Provides student loan during coronavirus economic crisis
 
+
+## Outcome of this Project
+
+
+The purpose of this project is design a machine learning algorithm using Artificial Neural Network that would predict whether a student will get student loan during coronavirus economic crisis from UGC, based on some criteria.
+
+## Feature of this Project 
+
+After completing the registration, client will get confirmation message and email. If a student apply for a loan and providing criteria
+
+## Methods Used
+Data Preprocessing
+Exploratory Data Analysis
+Machine Learning
+etc.
+
+## Technologies
+Python, Markdown
+Tensorflow, Keras
+Pandas, numpy
+Jupyter
+etc.
+
+## Project Description
+
+The dataset for this project consists of labeled data with following features. The target column is called 'Personal Loan' which is used to predict whether a customer gets approved for loan or not.
+
 Outcome of this Project : This project tells us, whether a student will get student loan during coronavirus economic crisis from UGC, based on some criteria.
 
 Feature of this Project : After completing the registration, client will get confirmation message and email. If a student apply for a loan and providing criteria
