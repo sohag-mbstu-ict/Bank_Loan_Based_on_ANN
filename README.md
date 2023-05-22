@@ -30,31 +30,30 @@ Jupyter
 
 etc.
 
-## Project Description
+# Project Description
 
-The dataset for this project consists of labeled data with following features. The target column is called 'Personal Loan' which is used to predict whether a customer gets approved for loan or not.
+Firstname
 
-Outcome of this Project : This project tells us, whether a student will get student loan during coronavirus economic crisis from UGC, based on some criteria.
+Lastname
 
-Feature of this Project : After completing the registration, client will get confirmation message and email. If a student apply for a loan and providing criteria
+Dependants : How many Dependants on her/his family
 
-           	  Firstname
-	          Lastname
-	          Dependants
-	          ApplicantIncome
-	          CoapplicantIncome
-	          LoanAmount
-	          Loan_Amount_Term
-	          Credit_History
-	          Gender
-	          Married
-	          Education
-	          Self_Employed
-           	  Property_Area
-then will get confirmation message and email which tells whether a student will get student loan
+ApplicantIncome : Amount of monthly income (in thousands)
 
+CoapplicantIncome : Family members income
 
-Requirements : tensorflow backend django version 3.6, Dataset name Churn_Modelling.csv
+LoanAmount : BDT (in thousands)
 
-Algorithm : Artificial neural networks (ANNs), which is used in different fields such as bank check signature recognition, Image processing
-            Language processing and translation, Route detection,Speech recognition,Forecasting
+Loan_Amount_Term : In Years
+
+Credit_History : Academic result
+
+Gender : Male or Female
+
+Married : Yes or No
+
+Education : Graduate or Not Graduate
+
+Self_Employed : Yes or No
+
+Property_Area : Urban or Rural or Semiurban
