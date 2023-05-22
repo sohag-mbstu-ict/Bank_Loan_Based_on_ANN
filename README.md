@@ -36,23 +36,28 @@ Firstname
 
 Lastname
 
-Dependants : How many Dependants on her/his family
+Dependants        : How many Dependants on her/his family
 
-ApplicantIncome : Amount of monthly income (in thousands)
+ApplicantIncome   : Amount of monthly income (in thousands)
 
 CoapplicantIncome : Family members income
 
-LoanAmount : BDT (in thousands)
+LoanAmount        : BDT (in thousands)
 
-Loan_Amount_Term : In Years
+Loan_Amount_Term  : In Years
 
-Credit_History : Academic result
+Credit_History    : Academic result
 
-Gender : Male or Female
+Gender            : Male or Female
 
-Married : Yes or No
+Married           : Yes or No
 
-Education : Graduate or Not Graduate
+Education         : Graduate or Not Graduate
+
+Self_Employed     : Yes or No
+
+Property_Area     : Urban or Rural or Semiurban
+
 
 Self_Employed : Yes or No
 
